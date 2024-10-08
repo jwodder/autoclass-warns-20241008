@@ -5,8 +5,8 @@ build-backend = "hatchling.build"
 [project]
 name = "mypackage"
 version = "0.0.0"
-#description = ???
-#readme = "README.md"
+description = "MVCE for a bug in autoclasstoc with recent Sphinx"
+readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
 license-files = { paths = ["LICENSE"] }
