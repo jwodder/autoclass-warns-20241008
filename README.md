@@ -10,3 +10,7 @@ WARNING: Summarised items should not include the current module. Replace 'mypack
 
 To run this MVCE, install [tox](http://tox.readthedocs.org) and run `tox -e
 docs`.
+
+The bug report is at [kalekundert/autoclasstoc#39][issue].
+
+[issue]: https://github.com/kalekundert/autoclasstoc/issues/39
